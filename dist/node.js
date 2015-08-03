@@ -1,0 +1,8 @@
+{
+    var _ns_ = {
+        id: 'atomita.js.telos.node',
+        doc: void 0
+    };
+}
+void 0;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFub255bW91cy53aXNwIl0sIm5hbWVzIjpbIl9uc18iLCJpZCIsImRvYyJdLCJtYXBwaW5ncyI6IkFBQUE7QUFBQSxRQUFDQSxJLEdBQUQ7QUFBQSxRQUFBQyxFLEVBQUksdUJBQUo7QUFBQSxRQUFBQyxHLEVBQUEsSyxDQUFBO0FBQUE7QUFBQSxDIiwic291cmNlc0NvbnRlbnQiOlsiKG5zIGF0b21pdGEuanMudGVsb3Mubm9kZSlcblxuKGRlZm1hY3JvIC0+XG4gIFwibWV0aG9kIGNoYWluaW5nLlwiXG4gIFsmIG9wZXJhdGlvbnNdXG4gIChyZWR1Y2VcbiAgIChmbiBbZm9ybSBvcGVyYXRpb25dXG4gICAgIChjb25zIChmaXJzdCBvcGVyYXRpb24pXG4gICAgICAgICAgIChjb25zIGZvcm0gKHJlc3Qgb3BlcmF0aW9uKSkpKVxuICAgKGZpcnN0IG9wZXJhdGlvbnMpXG4gICAocmVzdCBvcGVyYXRpb25zKSkpXG5cbiJdfQ==

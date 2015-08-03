@@ -1,0 +1,40 @@
+{
+  "name": "telos-js",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/telos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "atomita",
+  "license": "GPL v2",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "gulp-newer": "^0.5.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-watch": "^4.3.4",
+    "gulp-webserver": "^0.9.1",
+    "gulp-wisp": "0.0.1",
+    "jspm": "^0.15.7",
+    "wisp": "^0.10.0"
+  },
+  "jspm": {
+    "directories": {
+      "baseURL": "dist"
+    },
+    "dependencies": {
+      "minimatch": "npm:minimatch@^2.0.10",
+      "util": "npm:util@^0.10.3",
+      "wildemitter": "npm:wildemitter@^1.1.0"
+    },
+    "devDependencies": {
+      "traceur": "github:jmcriffey/bower-traceur@0.0.88",
+      "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.88"
+    }
+  }
+}
